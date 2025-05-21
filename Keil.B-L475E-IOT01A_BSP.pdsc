@@ -103,7 +103,6 @@
       <book category="schematic" name="https://www.st.com/resource/en/schematic_pack/b-l475e-iot01ax_sch.zip" title="Schematics"/>
       <book category="other"     name="Documents/README.md" title="Guide"/>
       <mountedDevice    deviceIndex="0" Dvendor="STMicroelectronics:13" Dname="STM32L475VGTx"/>
-      <compatibleDevice deviceIndex="0" Dvendor="STMicroelectronics:13" DsubFamily="STM32L475"/>
       <feature type="ODbg"          n="1"          name="On-board ST-LINK/V2-1"/>
       <feature type="ROM"           n="1"          name="64-Mbit Quad-SPI Flash memory"/>
       <feature type="PWR"           n="3"  m="5"   name="External Supply"/>
