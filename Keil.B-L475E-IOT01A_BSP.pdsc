@@ -13,16 +13,8 @@
   </licenseSets>
 
   <releases>
-    <release version="2.0.0-dev">
-      Updated for new CMSIS-Toolbox CubeMX integration
-      Removed BSP drivers
-      Removed Platform project
-      Migrated Blinky example to CMSIS Solution
-      Drivers:
-      - Updated VIO driver to API 1.0.0
-      Pack Description:
-      - Added LICENSE file
-      - Updated schemaVersion (1.7.36)
+    <release version="1.0.1-dev">
+      Active development ...
     </release>
     <release version="1.0.1" date="2021-07-12">
       Drivers:
