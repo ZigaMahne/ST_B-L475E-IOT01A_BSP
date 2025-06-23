@@ -41,3 +41,9 @@ project:
     - script:  ./RTE/Device/STM32L475VGTx/ac6_linker_script.sct.src
       regions: ./RTE/Device/STM32L475VGTx/regions_B-L475E-IOT01A.h
       for-compiler: AC6
+
+  output:
+    type:
+      - elf
+      - hex
+      - map
